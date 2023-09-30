@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Create pinia app",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "Play with vur forms",
+      "isFav": true
+    },
+    {
+      "title": "Create web component",
+      "isFav": true,
+      "id": 3
+    },
+    {
+      "title": "Learn react js",
+      "isFav": false,
+      "id": 4
+    },
+    {
+      "title": "Learn Redux",
+      "isFav": false,
+      "id": 5
+    },
+    {
+      "title": "Learn Node Js",
+      "isFav": false,
+      "id": 6
+    }
+  ]
+}
